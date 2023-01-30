@@ -1,0 +1,11 @@
+div{
+    display: inline-block;
+    color: antiquewhite;
+    background-color:darkcyan;
+    font-size: x-large;
+    height: 100px;
+    width: 50%;
+    outline: 3px tomato solid;
+    margin: 20px;
+    text-align: center;
+}
